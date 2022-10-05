@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    post_delete_time_limit_enabled: "Enable time limit for post deletion."
+    post_delete_time_limit_hours: "Number of hours where post deletion is allowed."

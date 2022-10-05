@@ -1,0 +1,5 @@
+plugins:
+  post_delete_time_limit_enabled:
+    default: false
+  post_delete_time_limit_hours:
+    default: 72
